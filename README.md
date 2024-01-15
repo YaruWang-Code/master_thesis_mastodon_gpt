@@ -18,4 +18,4 @@ The following figure shows the workflow of this research.
 *Figure 1 Workflow of ChatGPT Discourse on Mastodon Research*
 ![framework_diagram](https://github.com/YaruWang-Code/master_thesis_mastodon_gpt/assets/85878984/9b4c1c92-a424-443f-88e6-c453607fcda2)
 
-The results of the research can be seen in README.md.
+The results of the research can be seen in [README.md](https://github.com/YaruWang-Code/ma_thesis_results)https://github.com/YaruWang-Code/ma_thesis_results.
